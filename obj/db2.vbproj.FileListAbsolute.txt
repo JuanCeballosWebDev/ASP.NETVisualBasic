@@ -1,0 +1,15 @@
+C:\CIS241\CIS241\db2\db2\obj\Debug\ResolveAssemblyReference.cache
+C:\CIS241\CIS241\db2\db2\obj\Debug\db2.Resources.resources
+C:\CIS241\CIS241\db2\db2\obj\Debug\db2.vbproj.GenerateResource.Cache
+C:\CIS241\CIS241\db2\db2\obj\Debug\db2.dll
+C:\CIS241\CIS241\db2\db2\obj\Debug\db2.xml
+C:\CIS241\CIS241\db2\db2\obj\Debug\db2.pdb
+C:\CIS241\CIS241\db2\db2\bin\db2.dll
+C:\CIS241\CIS241\db2\db2\bin\db2.pdb
+C:\CIS241\CIS241\db2\db2\bin\db2.xml
+C:\CIS241\CIS241\db2\db2\obj\Release\ResolveAssemblyReference.cache
+C:\CIS241\CIS241\db2\db2\obj\Release\db2.Resources.resources
+C:\CIS241\CIS241\db2\db2\obj\Release\db2.vbproj.GenerateResource.Cache
+C:\CIS241\CIS241\db2\db2\obj\Release\db2.dll
+C:\CIS241\CIS241\db2\db2\obj\Release\db2.xml
+C:\CIS241\CIS241\db2\db2\obj\Release\db2.pdb
