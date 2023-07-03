@@ -1,0 +1,2 @@
+# ASP.NETVisualBasic
+When collecting user information or monitoring their behavior, it is crucial to prioritize security. ASP.NET and Visual Basic are reliable tools for achieving this. By utilizing Visual Basic, it becomes feasible to perform logic on the server, which conceals sensitive data from hackers and other developers. This task demonstrates how to build a secure web application for gathering user information. Once the data is stored in the database server, it can be easily updated, deleted, or edited.
